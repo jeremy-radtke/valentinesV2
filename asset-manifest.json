@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98fd8213.css",
+    "main.js": "/static/js/main.cae471b5.js",
+    "static/media/kitty_sunglasses.png": "/static/media/kitty_sunglasses.3740bb862f29044c7863.png",
+    "static/media/kitty_happy.png": "/static/media/kitty_happy.f3644418c52eb84a18fb.png",
+    "static/media/giphy.gif": "/static/media/giphy.aecd24c288b6e391623b.gif",
+    "static/media/kitty_default.png": "/static/media/kitty_default.339cac595ef4fa84bfe4.png",
+    "static/media/giphy-2.gif": "/static/media/giphy-2.7517994f5bced77c3df9.gif",
+    "index.html": "/index.html",
+    "main.98fd8213.css.map": "/static/css/main.98fd8213.css.map",
+    "main.cae471b5.js.map": "/static/js/main.cae471b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98fd8213.css",
+    "static/js/main.cae471b5.js"
+  ]
+}
